@@ -1,6 +1,6 @@
 # remove-mdm-iOS-12-profile
 
-How to Remove Apple MDM profile on iOS 11.4, 11.3.x and lower?
+How to Remove Apple MDM profile on iOS 12?
 
 The MDM removal tool is extremely easy to use. You can remove configuration profile from ALL iPhone and iPad models with just 1 click thanks to iActivate Software. No special knowledge is needed. The software is ready to use right after download:
 
