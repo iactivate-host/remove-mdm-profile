@@ -1,4 +1,4 @@
-# remove-mdm-iOS-12-profile
+# remove mdm iOS 12 profile
 
 How to Remove Apple MDM profile on iOS 12?
 
