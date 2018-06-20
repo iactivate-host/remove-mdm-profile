@@ -51,7 +51,7 @@ Please, DO NOT mistake MDM Lock Bypass with iCloud Lock bypass. Order MDM Lock B
 
 How to Remove MDM Profile with iActivate tool software?
 
-Step 1. You should download iActivate tool once you order MDM unlock: http://iactivate.host/
+Step 1. You should download iActivate tool once you order MDM unlock: https://iactivate.host/
 
 Step 2. Open iActivate tool software and click the ‘Start iActivate Server button’.
 
