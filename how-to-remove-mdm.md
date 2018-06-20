@@ -5,20 +5,35 @@ How to Remove Apple MDM profile on iOS 11.4, 11.3.x and lower?
 The MDM removal tool iActivate Software is extremely easy to use.
 
 Supported iOS version to remove MDM profile on it:
+
 iOS 12.0 Developer Beta 2
+
 iOS 11.4
+
 iOS 11.4.1 Public Beta 3
+
 iOS 11.3.x
+
 iOS 11.2.x
+
 iOS 11.1.x
+
 iOS 11.0.x
+
 iOS 10.3.x
+
 iOS 10.2.x
+
 iOS 10.1.x
+
 iOS 9.3.x
+
 iOS 9.2.x
+
 iOS 9.1
+
 iOS 8.x
+
 iOS 7.x
 
 Any iOS device: iPhone, iPad, iPod are supported.
@@ -41,9 +56,11 @@ Step 3. Connect the gadget with MDM profile to your computer and launch iTunes.
 Step 4. Activate iPhone/iPad/iPod touch via iTunes.
 Step 5. Stop iActivate Server when you finally bypass MDM profile on your device.
 
-Order Remove MDM Profile Service https://iactivate.host/
+Order Remove MDM Profil:  https://iactivate.host/#price
 
 Check Customer guide: https://iactivate.host/how-to-use/
+
+Download iActivate MDM bypass Software https://iactivate.host/#home
 
 
 
